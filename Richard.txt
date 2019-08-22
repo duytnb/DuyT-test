@@ -12,4 +12,4 @@ Aug 15 2019: make change for commit
 
 
 Aug 16 2019 : make change for merge 
-change from master
+DuyT add content form DT_conflict_1
